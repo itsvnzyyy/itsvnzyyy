@@ -3,7 +3,7 @@ Halo! Saya Alvin Syahrinaldi, seorang mahasiswa Teknik Komputer di Universitas J
 
 ## 🧑🏻‍💻 Tentang Saya
 - 🔭 Saat ini sedang belajar: `C/C++`, dan `Python`
-- 🌱 Tertarik dengan: Perangkat keras dan perangkat lunak komputer
+- 🌱 Tertarik dengan: Perangkat keras dan perangkat lunak komputer🖥️
 - ⚡ Fakta menyenangkan: Saya gasuka bakso🤢
 
 ## 🛠️ Teknologi & Tools
